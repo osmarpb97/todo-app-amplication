@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.11.4",
+  "appInfo": {
+    "name": "TodoApp",
+    "description": "Testing proposes TodoApp amplication",
+    "version": "n0tb4adx",
+    "id": "cl05ynbbt155018801s61vkfr35n",
+    "url": "https://app.amplication.com/cl05ynbbt155018801s61vkfr35n",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl05ynbbt155018801s61vkfr35n",
+      "authProvider": "Jwt"
+    }
+  }
+}
